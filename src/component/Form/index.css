@@ -1,0 +1,16 @@
+.item {
+  margin: 5px !important;
+  width: 100% !important;
+}
+.MuiCard-rootS {
+  padding: 20px !important;
+  margin: 10px !important;
+  text-align: center;
+  justify-content: space-between;
+  display: flex;
+  width: 90%;
+}
+body {
+  text-align: end;
+  background-color: black;
+}
